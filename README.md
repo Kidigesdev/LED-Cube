@@ -12,6 +12,7 @@ The hole PCB is designed for THT. I have not made an SMD version.
 
 Parts list:
   must have:
+   343x Blue LED´s 5mm
     49x 220Ω Resistor  (R1 - R49)
      1x 10KΩ Resistor  (R50)
      7x  1KΩ Resistor  (R51 - R57)

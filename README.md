@@ -25,9 +25,9 @@ Parts list:
      1x ATmega 328P
      7x 2N2222 Transistor
      1x Dual Terminal for power delivery
-     Some Female Jumpersockets
+     some Female Jumpersockets
      
-  optinal:
+  optional:
     1x IC Socket DIP-28
     7x IC Socket DIP-20
     1x IC Socket DIP-16

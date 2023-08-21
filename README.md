@@ -9,7 +9,9 @@ If you can, upload the code first to an Arduino with Atmega328p and remove the c
 
 The PCB design is not beautiful but it works.
 
+![image](https://media.npr.org/assets/img/2023/05/26/honest-work-meme-cb0f0fb2227fb84b77b3c9a851ac09b095ab74d8-s1100-c50.jpg)
 The whole PCB is designed for THT. I have not made an SMD version.
+
 
 Parts list:
   must have:

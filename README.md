@@ -5,7 +5,7 @@ Ignore the First Tab in the .fzz I dont know what happend but I only used and ne
 
 If you can, upload the code first to an Arduino with Atmega328p and remove the chip from it for the PCB.
 
-![image](https://github.com/Kidigesdev/LED-Cube/assets/64473713/8baf1a07-ef68-4f67-83ca-6604afef17e9)
+![image](https://github.com/Kidigesdev/LED-Cube/assets/64473713/c3a086e2-edd6-467a-b7b2-e9b9459c968e)
 
 The PCB design is not beautiful but it works.
 

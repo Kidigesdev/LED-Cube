@@ -14,25 +14,25 @@ The whole PCB is designed for THT. I have not made an SMD version.
 
 
 Parts list:
-  must have:
-   343x Blue LED´s 5mm
-    49x 220Ω Resistor  (R1 - R49)
-     1x 10KΩ Resistor  (R50)
-     7x  1KΩ Resistor  (R51 - R57)
-     2x Ceramic Capacitor 22µF
-     1x Pushbutton
-     1x 16MHz Crystal
-     1x 74HC138  (DIP-16)
-     7x 74HC574  (DIP-20)
-     1x ATmega 328P
-     7x 2N2222 Transistor
-     1x Dual Terminal for power delivery
-     some Female Jumpersockets
+  - must have:
+    * 343x Blue LED´s 5mm
+    * 49x 220Ω Resistor  (R1 - R49)
+    * 1x 10KΩ Resistor  (R50)
+    * 7x  1KΩ Resistor  (R51 - R57)
+    * 2x Ceramic Capacitor 22µF
+    * 1x Pushbutton
+    * 1x 16MHz Crystal
+    * 1x 74HC138  (DIP-16)
+    * 7x 74HC574  (DIP-20)
+    * 1x ATmega 328P
+    * 7x 2N2222 Transistor
+    * 1x Dual Terminal for power delivery
+    * some Female Jumpersockets
      
-  optional:
-    1x IC Socket DIP-28
-    7x IC Socket DIP-20
-    1x IC Socket DIP-16
+  - optional:
+    * 1x IC Socket DIP-28
+    * 7x IC Socket DIP-20
+    * 1x IC Socket DIP-16
 
 Credit to:
   Marcazzan_M

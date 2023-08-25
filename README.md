@@ -5,7 +5,7 @@ Ignore the First Tab in the .fzz I dont know what happend but I only used and ne
 
 If you can, upload the code first to an Arduino with Atmega328p and remove the chip from it for the PCB.
 
-![image](https://github.com/Kidigesdev/LED-Cube/assets/64473713/c3a086e2-edd6-467a-b7b2-e9b9459c968e)
+![image](https://github.com/Kidigesdev/LED-Cube/assets/64473713/c2ec9ec1-44aa-4064-b213-ba6d174c1327)
 
 The PCB design is not beautiful but it works.
 
@@ -20,6 +20,7 @@ Parts list:
     * 1x 10KΩ Resistor  (R50)
     * 7x  1KΩ Resistor  (R51 - R57)
     * 2x Ceramic Capacitor 22µF
+    * 9x Ceramic Capacitor 100nF
     * 1x Pushbutton
     * 1x 16MHz Crystal
     * 1x 74HC138  (DIP-16)

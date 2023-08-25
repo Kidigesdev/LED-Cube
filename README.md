@@ -19,8 +19,8 @@ Parts list:
     * 49x 220Ω Resistor  (R1 - R49)
     * 1x 10KΩ Resistor  (R50)
     * 7x  1KΩ Resistor  (R51 - R57)
-    * 2x Ceramic Capacitor 22µF
-    * 9x Ceramic Capacitor 100nF
+    * 2x Ceramic Capacitor 22µF  (C1 - C2)
+    * 9x Ceramic Capacitor 100nF  (C3 - C11)
     * 1x Pushbutton
     * 1x 16MHz Crystal
     * 1x 74HC138  (DIP-16)

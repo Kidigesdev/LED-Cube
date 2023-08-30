@@ -28,7 +28,7 @@ Parts list:
     * 1x 74HC138  (DIP-16)
     * 7x 74HC574  (DIP-20)
     * 1x ATmega 328P
-    * 7x BC517 Transistor
+    * 7x 2N2222A Transistor
     * 1x Dual Terminal for power delivery
     * some Female Jumpersockets
      
